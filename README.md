@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Rasheed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20FastAPI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Rasheed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" alt="Header" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Python+%2B+Django+%2B+FastAPI;Shipping+Scalable+REST+APIs;AI+Models+in+Production+Inference+Pipelines;Real-Time+Systems+with+MQTT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Python+%2B+Django;REST+APIs+%7C+AI+Model+Integration;MQTT+Real-time+Systems)](https://github.com/HaroonRasheed-hr)
 
 </div>
 
@@ -21,12 +21,12 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/ascii_output.gif" width="100%" />
+<img src="./assets/ascii_output.gif" width="100%" alt="ASCII Animation" />
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/terminal.svg?v=2" width="100%" />
+<img src="./assets/terminal.svg?v=2" width="100%" alt="Terminal SVG" />
 
 </td>
 </tr>
@@ -93,7 +93,7 @@
 |:---|:---|:---|
 | **Ctrlx Radar** | Backend API layer with ONNX model inference endpoints, JWT auth, and tests for API and inference flows | Python, ONNX, JWT |
 | **Vision Pulse** | Backend for an AI-powered image annotation platform with RBAC, model integration, and MQTT real-time services | Python, MQTT, Docker |
-| **[Services Management System](https://github.com/HaroonRasheed-hr/Educational-website)** | Service booking app with role-based access (user, company, admin), approvals, and notifications. Final Year Project | Spring Boot, MySQL, JS |
+| **[Services Management System](https://github.com/HaroonRasheed-hr/Educational-website)** | Service booking app with role-based access (user, company, admin), approvals, and notifications. Final year project with full CI/CD pipeline | Python, Django, PostgreSQL |
 
 </div>
 
@@ -135,8 +135,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaroonRasheed-hr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonRasheed-hr&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaroonRasheed-hr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonRasheed-hr&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 ### 💻 Most Used Languages
@@ -161,5 +161,5 @@ TypeScript       ████████░░░░░░░░░░░░░
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
 </div>

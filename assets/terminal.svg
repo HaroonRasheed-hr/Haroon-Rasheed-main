@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 506" width="640" height="506">
+<rect x="0" y="0" width="640" height="506" rx="12" ry="12" fill="#151517" stroke="#000" stroke-opacity="0.4" stroke-width="1"/>
+<path d="M0,12 a12,12 0 0 1 12,-12 h616 a12,12 0 0 1 12,12 v24 h-640 z" fill="#2b2b2d"/>
+<circle cx="22" cy="18.0" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="18.0" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="18.0" r="6" fill="#27c93f"/>
+<text x="320.0" y="22.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#9a9a9a">zubair_hussain — info — 80x24</text>
+<clipPath id="cmdClip"><rect id="cmdClipRect" x="204.8" y="41" width="0" height="22"/></clipPath>
+<text x="20" y="55" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#5fd97a">zubair_hussain/info $ </tspan><tspan fill="#f2f2f2" clip-path="url(#cmdClip)">whoami</tspan></text>
+<rect id="typeCursor" x="204.8" y="41" width="7" height="18" fill="#f2f2f2"/>
+<g id="line0" opacity="0"><text x="20" y="85.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#c7c7c7"></tspan></text></g>
+<g id="line1" opacity="0"><text x="20" y="107.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Now</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Full Stack Developer · AI Engineer</tspan></text></g>
+<g id="line2" opacity="0"><text x="20" y="129.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Prev</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;&#160;&#160;Freelancer @ Upwork · Fiverr · LinkedIn</tspan></text></g>
+<g id="line3" opacity="0"><text x="20" y="151.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Also</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;&#160;&#160;Co-founder @ Xovato Digital Agency</tspan></text></g>
+<g id="line4" opacity="0"><text x="20" y="173.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Intern</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;xis.ai — Software Development Dept</tspan></text></g>
+<g id="line5" opacity="0"><text x="20" y="195.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Edu</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;B.Tech / BS IT, In Progress</tspan></text></g>
+<g id="line6" opacity="0"><text x="20" y="217.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#c7c7c7"></tspan></text></g>
+<g id="line7" opacity="0"><text x="20" y="239.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#6a6a6a">── Stack ──────────────────────────</tspan></text></g>
+<g id="line8" opacity="0"><text x="20" y="261.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Frontend</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;React, Next.js, TypeScript, Tailwind</tspan></text></g>
+<g id="line9" opacity="0"><text x="20" y="283.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Backend</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;Node.js, Django, FastAPI</tspan></text></g>
+<g id="line10" opacity="0"><text x="20" y="305.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">AI / ML</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;LangChain, OpenAI API, Scikit-learn</tspan></text></g>
+<g id="line11" opacity="0"><text x="20" y="327.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">DevOps</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;Docker, Firebase, Git</tspan></text></g>
+<g id="line12" opacity="0"><text x="20" y="349.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#c7c7c7"></tspan></text></g>
+<g id="line13" opacity="0"><text x="20" y="371.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#6a6a6a">── Highlights ─────────────────────</tspan></text></g>
+<g id="line14" opacity="0"><text x="20" y="393.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> 35+ public repos across web, AI &amp; mobile</tspan></text></g>
+<g id="line15" opacity="0"><text x="20" y="415.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> Kaggle top 10% — multiple competitions</tspan></text></g>
+<g id="line16" opacity="0"><text x="20" y="437.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> Built full text-to-image AI pipeline</tspan></text></g>
+<g id="line17" opacity="0"><text x="20" y="459.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> Shipped real client projects on Upwork &amp; Fiverr</tspan></text></g>
+<g id="finalPrompt" opacity="0"><text x="20" y="490.6" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#5fd97a">zubair_hussain/info $ </text><rect id="blinkCursor" x="204.8" y="476.6" width="7" height="18" fill="#f2f2f2"/></g>
+<animate xlink:href="#cmdClipRect" attributeName="width" values="0;0;50.4;50.4;0;0" keyTimes="0;0.0868;0.1346;0.8480;0.9132;1" dur="6.910s" repeatCount="indefinite"/>
+<animate xlink:href="#typeCursor" attributeName="x" values="204.8;204.8;255.20000000000002;255.20000000000002" keyTimes="0;0.0868;0.1346;1" dur="6.910s" repeatCount="indefinite"/>
+<animate xlink:href="#typeCursor" attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0868;0.1346;0.1563;1" dur="6.910s" repeatCount="indefinite"/>
+<animate xlink:href="#line0" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1852;0.2069;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line1" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2012;0.2229;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line2" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2171;0.2388;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line3" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2330;0.2547;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line4" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2489;0.2706;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line5" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2648;0.2865;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line6" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2808;0.3025;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line7" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.2967;0.3184;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line8" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3126;0.3343;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line9" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3285;0.3502;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line10" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3444;0.3661;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line11" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3603;0.3821;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line12" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3763;0.3980;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line13" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.3922;0.4139;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line14" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4081;0.4298;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line15" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4240;0.4457;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line16" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4399;0.4616;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#line17" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4559;0.4776;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#finalPrompt" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4863;0.5080;0.8480;0.9132;1.0000" dur="6.910s" repeatCount="indefinite" />
+<animate xlink:href="#blinkCursor" attributeName="opacity" values="0;1;0;1;0;0;0" keyTimes="0.0000;0.5152;0.5803;0.6454;0.7106;0.8480;1.0000" dur="6.910s" repeatCount="indefinite"/>
+</svg>

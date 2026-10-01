@@ -16,16 +16,19 @@ REQUIREMENTS:
 """
 
 import sys
-from PIL import Image, ImageDraw, ImageFont, ImageOps
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 import numpy as np
 
 # ---------- SETTINGS ----------
-OUTPUT_WIDTH_CHARS = 140         # more chars = sharper detail
+OUTPUT_WIDTH_CHARS = 110         # more chars = sharper detail
 CHAR_ASPECT = 0.5                # corrects for font glyphs being taller than wide
-CHARSET = " .:-=+*#%@"           # light -> dark (10 tonal levels)
-FONT_SIZE = 8
+CHARSET = " .:-=+*#%@"           # sparse -> dense (10 tonal levels)
+CROP_TOP_FRACTION = 0.56         # keep head + shoulders only (fraction of photo height)
+VIGNETTE = False
+GAMMA = 0.55                     # <1 brightens mid-tones (face detail)                 # fade bright background around the subject
+FONT_SIZE = 10
 BG_COLOR = (10, 10, 10)          # near-black background
-TEXT_COLOR = (150, 150, 150)     # revealed art: mid gray
+TEXT_COLOR = (200, 200, 200)     # revealed art: mid gray
 LASER_COLOR = (235, 235, 235)    # the scanning line itself: bright gray/white
 LASER_THICKNESS = 2              # px height of the laser bar
 
@@ -37,7 +40,19 @@ HOLD_LAST_FRAME_MS = 2000        # pause on finished image
 
 def image_to_ascii(img_path):
     img = Image.open(img_path).convert("L")
-    img = ImageOps.autocontrast(img, cutoff=2)  # improves tonal separation -> clearer features
+    w, h = img.size
+    img = img.crop((0, 0, w, int(h * CROP_TOP_FRACTION)))
+    img = img.filter(ImageFilter.UnsharpMask(radius=3, percent=160, threshold=2))
+    img = ImageOps.autocontrast(img, cutoff=2)
+    img = ImageOps.invert(img)  # bright backdrop -> sparse chars, dark hair/suit -> dense
+    img = img.point(lambda v: int(255 * (v / 255) ** GAMMA))  # lift skin mid-tones so the face shows
+    if VIGNETTE:
+        # elliptical mask centred on the subject darkens the washed-out background
+        w, h = img.size
+        yy, xx = np.mgrid[0:h, 0:w]
+        d = ((xx - w * 0.5) / (w * 0.55)) ** 2 + ((yy - h * 0.45) / (h * 0.62)) ** 2
+        mask = np.clip(1.4 - d, 0, 1)
+        img = Image.fromarray((np.array(img) * mask).astype(np.uint8))
 
     w, h = img.size
     new_w = OUTPUT_WIDTH_CHARS
@@ -60,7 +75,10 @@ def build_gif(img_path, out_path="ascii_output.gif"):
     try:
         font = ImageFont.truetype("DejaVuSansMono.ttf", FONT_SIZE)
     except OSError:
-        font = ImageFont.load_default()
+        try:
+            font = ImageFont.truetype("consola.ttf", FONT_SIZE)
+        except OSError:
+            font = ImageFont.load_default()
 
     dummy = Image.new("RGB", (10, 10))
     d = ImageDraw.Draw(dummy)

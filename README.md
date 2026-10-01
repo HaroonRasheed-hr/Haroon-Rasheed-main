@@ -37,7 +37,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://tinyurl.com/3f7mef97)
 [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-Open-1a1a1a?style=for-the-badge)](https://tinyurl.com/3f7mef97)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr070203@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haroon-Xray)
 [![Instagram](https://img.shields.io/badge/📷_Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/detro_onshah)
 
@@ -195,7 +195,7 @@ delivering full stack web apps, AI integrations, and data solutions that meet re
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge)](https://tinyurl.com/3f7mef97)
-[![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr070203@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haroon-Xray)
 [![Instagram](https://img.shields.io/badge/📷%20Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/detro_onshah)
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Python+%2B+Django;REST+APIs+%7C+AI+Model+Integration;MQTT+Real-time+Systems)](https://github.com/HaroonRasheed-hr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Python+%2B+Django;REST+APIs+%7C+Backend+Engineering;System+Design+%7C+Automation)](https://github.com/HaroonRasheed-hr)
 
 </div>
 
@@ -32,15 +32,15 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://tinyurl.com/3f7mef97)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaroonRasheed-hr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge)](https://tinyurl.com/3f7mef97)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaroonRasheed-hr)
 
 </div>
 
 ---
 
-## 🆕 Latest Repositories
+## Latest Repositories
 
 <!--START_SECTION:repos-->
 - [Image-Annotator](https://github.com/HaroonRasheed-hr/Image-Annotator) - AI-powered image annotation platform with automated labeling `Python`
@@ -51,55 +51,55 @@
 <!--END_SECTION:repos-->
 
 <div align="center">
-<sub>⚙️ Auto-synced — updates automatically whenever a new repo is created</sub>
+<sub>Auto-synced — updates automatically whenever a new repo is created</sub>
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-> *Backend Engineer specializing in Python, Django, and FastAPI. I design and ship scalable REST APIs, integrate AI models into production inference pipelines, and build real-time systems with MQTT.*
+Backend Engineer focused on Python, Django, and backend systems. I build scalable APIs, automate workflows, and design reliable services for production use.
 
-- 🎓 **BS Software Engineering**, University of Okara (2021 – 2025)
-- 💼 **Full Stack Intern (Backend Focused)** at **Xis.ai** (04/2026 – 09/2026)
-- ⚙️ Experienced in workflow automation, CI/CD, and optimizing services under load
-- 📍 Lahore, Pakistan · Open to backend roles
+- BS Software Engineering, University of Okara (2021 – 2025)
+- Full Stack Intern (Backend Focused) at Xis.ai (04/2026 – 09/2026)
+- Experienced in workflow automation, CI/CD, and service optimization
+- Lahore, Pakistan · Open to backend roles
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Full Stack Intern (Backend Focused) — Xis.ai · *04/2026 – 09/2026 · Remote*
-- Built backend services with **Django, DRF, and PostgreSQL** across 5 modules, with React.js on the front end where needed
-- Designed and shipped **100+ RESTful endpoints** for authentication, inspection workflows, and reporting
-- Integrated **4+ pre-trained models** for pass/fail image inference, cutting manual inspection time by **~70%**
-- Engineered **MQTT** infrastructure for real-time notifications, system monitoring, and error reporting
-- Built PDF report generation, model conversion, and automated frame-capture pipelines, cutting report generation from **90s to 20s**
+### Full Stack Intern (Backend Focused) — Xis.ai · Remote
+- Built backend services with Django, DRF, and PostgreSQL across multiple modules
+- Designed and shipped REST endpoints for authentication, inspection workflows, and reporting
+- Integrated model-based workflows for image inference and automation
+- Built real-time monitoring and notification infrastructure
+- Improved report generation and processing speed through system optimization
 
-### Software Engineer Intern — Techworks · *10/2025 – 01/2026 · Remote*
-- Delivered client automation and AI integration projects using **n8n, Zapier, and Make.com**
+### Software Engineer Intern — Techworks · Remote
+- Delivered automation and API integration projects using n8n, Zapier, and Make.com
 - Built web applications and integrated third-party APIs into scalable systems
-- Automated business workflows, cutting manual effort and improving operational efficiency
+- Automated workflows to reduce manual effort and improve efficiency
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| 🔥 Project | 📝 Description | 🛠 Stack |
+| Project | Description | Stack |
 |:---|:---|:---|
-| **Ctrlx Radar** | Backend API layer with ONNX model inference endpoints, JWT auth, and tests for API and inference flows | Python, ONNX, JWT |
-| **Vision Pulse** | Backend for an AI-powered image annotation platform with RBAC, model integration, and MQTT real-time services | Python, MQTT, Docker |
-| **[Services Management System](https://github.com/HaroonRasheed-hr/Educational-website)** | Service booking app with role-based access (user, company, admin), approvals, and notifications. Final year project with full CI/CD pipeline | Python, Django, PostgreSQL |
+| Ctrlx Radar | Backend API layer with model inference endpoints, JWT auth, and tests for API and inference flows | Python, ONNX, JWT |
+| Vision Pulse | Backend for an AI-powered image annotation platform with RBAC, model integration, and real-time services | Python, MQTT, Docker |
+| Services Management System | Service booking app with role-based access, approvals, and notifications. Final year project with full CI/CD pipeline | Python, Django, PostgreSQL |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ⚙️ Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
@@ -109,16 +109,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔌 Real-Time & AI
+### Real-Time & AI
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -130,14 +130,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HaroonRasheed-hr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonRasheed-hr&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
-### 💻 Most Used Languages
+### Most Used Languages
 
 ```text
 Python / Django  ████████████████████████████████░░░░░░░░  80%
@@ -146,13 +146,13 @@ TypeScript       ████████░░░░░░░░░░░░░
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge)](https://tinyurl.com/3f7mef97)
-[![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaroonRasheed-hr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge)](https://tinyurl.com/3f7mef97)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrasheed0702@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaroonRasheed-hr)
 
 </div>
 

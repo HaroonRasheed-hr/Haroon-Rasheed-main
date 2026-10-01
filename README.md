@@ -45,10 +45,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
-- [Haroon-Rasheed-main](https://github.com/HaroonRasheed-hr/Haroon-Rasheed-main) - GitHub profile README `Python`
-- [Servies-Management-](https://github.com/HaroonRasheed-hr/Servies-Management-) - No description yet `TypeScript`
-- [Educational-website](https://github.com/HaroonRasheed-hr/Educational-website) - Full-stack service booking system with a responsive frontend (HTML, CSS, JS), secure Spring Boot backend, and MySQL database. `HTML`
-- [Auth-Project](https://github.com/HaroonRasheed-hr/Auth-Project) - No description yet `JavaScript`
+- [Image-Annotator](https://github.com/HaroonRasheed-hr/Image-Annotator) - AI-powered image annotation platform with automated labeling `Python`
+- [chip-defect-finder](https://github.com/HaroonRasheed-hr/chip-defect-finder) - AI model inference for detecting chip defects `Python`
+- [Skill-dev](https://github.com/HaroonRasheed-hr/Skill-dev) - Skill development platform `Python`
+- [Servies-Management-](https://github.com/HaroonRasheed-hr/Servies-Management-) - Service management system `TypeScript`
+- [Educational-website](https://github.com/HaroonRasheed-hr/Educational-website) - Full-stack service booking system with a Spring Boot backend and MySQL database `HTML`
 <!--END_SECTION:repos-->
 
 <div align="center">
@@ -62,7 +63,7 @@
 > *Backend Engineer specializing in Python, Django, and FastAPI. I design and ship scalable REST APIs, integrate AI models into production inference pipelines, and build real-time systems with MQTT.*
 
 - 🎓 **BS Software Engineering**, University of Okara (2021 – 2025)
-- 💼 **Full Stack Intern (Backend Focused)** at **Xis.ai** (04/2026 – Present)
+- 💼 **Full Stack Intern (Backend Focused)** at **Xis.ai** (04/2026 – 09/2026)
 - ⚙️ Experienced in workflow automation, CI/CD, and optimizing services under load
 - 📍 Lahore, Pakistan · Open to backend roles
 
@@ -70,7 +71,7 @@
 
 ## 💼 Experience
 
-### Full Stack Intern (Backend Focused) — Xis.ai · *04/2026 – Present · Remote*
+### Full Stack Intern (Backend Focused) — Xis.ai · *04/2026 – 09/2026 · Remote*
 - Built backend services with **Django, DRF, and PostgreSQL** across 5 modules, with React.js on the front end where needed
 - Designed and shipped **100+ RESTful endpoints** for authentication, inspection workflows, and reporting
 - Integrated **4+ pre-trained models** for pass/fail image inference, cutting manual inspection time by **~70%**
@@ -138,9 +139,12 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HaroonRasheed-hr&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonRasheed-hr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
-</div>
+### 💻 Most Used Languages
+
+```text
+Python / Django  ████████████████████████████████░░░░░░░░  80%
+TypeScript       ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%
+```
 
 ---
 

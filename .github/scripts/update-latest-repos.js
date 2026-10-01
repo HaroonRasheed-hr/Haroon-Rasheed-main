@@ -6,6 +6,7 @@ const fs = require("fs");
 const USERNAME = process.env.GH_USERNAME || "HaroonRasheed-hr";
 const TOKEN = process.env.GH_TOKEN;
 const README_PATH = "README.md";
+const EXCLUDED_REPOS = ["Auth-Project", "Haroon-Rasheed-main"];
 const START_MARKER = "<!--START_SECTION:repos-->";
 const END_MARKER = "<!--END_SECTION:repos-->";
 const MAX_REPOS = 5;
@@ -35,7 +36,7 @@ async function main() {
 
   const repos = await res.json();
   const latest = repos
-    .filter((repo) => !repo.fork && !repo.archived)
+    .filter((repo) => !repo.fork && !repo.archived && !EXCLUDED_REPOS.includes(repo.name))
     .slice(0, MAX_REPOS);
 
   const lines = latest.map((repo) => {

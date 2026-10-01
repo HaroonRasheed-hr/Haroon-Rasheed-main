@@ -10,7 +10,7 @@ Output:
 
 from pathlib import Path
 
-PROMPT = "zubair_hussain/info $ "
+PROMPT = "haroon_rasheed/info $ "
 COMMAND = "whoami"
 
 OUTPUT_LINES = [
@@ -110,7 +110,7 @@ def build_svg():
 
     parts.append(
         f'<text x="{WINDOW_W / 2}" y="{TITLEBAR_H / 2 + 4}" text-anchor="middle" '
-        f'font-family="{FONT}" font-size="12" fill="#9a9a9a">zubair_hussain — info — 80x24</text>'
+        f'font-family="{FONT}" font-size="12" fill="#9a9a9a">haroon_rasheed — info — 80x24</text>'
     )
 
     y = CONTENT_TOP

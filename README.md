@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zubair%20Hussain%20Shah&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Freelancer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Rasheed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Freelancer&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zubair-hussain&label=Profile%20Views&color=6C63FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Zubair-hussain?label=Followers&style=for-the-badge&color=6C63FF&logo=github&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/Zubair-hussain/Zubair-hussain?label=Last%20Updated&style=for-the-badge&color=6C63FF)
+![Profile Views](https://komarev.com/ghpvc/?username=Haroon-Xray&label=Profile%20Views&color=6C63FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Haroon-Xray?label=Followers&style=for-the-badge&color=6C63FF&logo=github&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/Haroon-Xray/Haroon-Xray?label=Last%20Updated&style=for-the-badge&color=6C63FF)
 
 </div>
 
@@ -37,8 +37,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://tinyurl.com/3f7mef97)
 [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-Open-1a1a1a?style=for-the-badge)](https://tinyurl.com/3f7mef97)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thezubairh@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zubair-hussain)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr070203@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haroon-Xray)
 [![Instagram](https://img.shields.io/badge/📷_Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/detro_onshah)
 
 </div>
@@ -48,11 +48,11 @@
 ## 🆕 Latest Repositories
 
 <!--START_SECTION:repos-->
-- [HTML-TO-DESIGN-](https://github.com/Zubair-hussain/HTML-TO-DESIGN-) - No description yet `TypeScript` Stars: 1
-- [Xovato-cpu-ai-studio](https://github.com/Zubair-hussain/Xovato-cpu-ai-studio) - Adds deploy-ready FastAPI backend package with CPU model layout, docs, env examples, and tests. `Python` Stars: 2
-- [AI-Powered-Quiz-and-Assessment-Platform](https://github.com/Zubair-hussain/AI-Powered-Quiz-and-Assessment-Platform) - Wayground is a full-stack AI-powered quiz platform where teachers can create and manage quizzes, generate questions with AI, and track student results. Students can browse quizzes, take timed assessments, review their answers, and see their score history. `JavaScript` Stars: 1
-- [GestureCam-Studio](https://github.com/Zubair-hussain/GestureCam-Studio) - GestureCam Studio is a Python-based hand gesture camera system using OpenCV and MediaPipe. It supports live hand tracking, gesture detection, skeleton landmarks, air writing, puzzle mode, FPS monitoring, and phone camera streaming through a web interface. `Python` Stars: 1
-- [Image-Analytics](https://github.com/Zubair-hussain/Image-Analytics) - XIS is a full-stack image analytics platform that analyzes uploads and shows insights in a real-time dashboard. `TypeScript`
+- [HTML-TO-DESIGN-](https://github.com/Haroon-Xray/HTML-TO-DESIGN-) - No description yet `TypeScript` Stars: 1
+- [Xovato-cpu-ai-studio](https://github.com/Haroon-Xray/Xovato-cpu-ai-studio) - Adds deploy-ready FastAPI backend package with CPU model layout, docs, env examples, and tests. `Python` Stars: 2
+- [AI-Powered-Quiz-and-Assessment-Platform](https://github.com/Haroon-Xray/AI-Powered-Quiz-and-Assessment-Platform) - Wayground is a full-stack AI-powered quiz platform where teachers can create and manage quizzes, generate questions with AI, and track student results. Students can browse quizzes, take timed assessments, review their answers, and see their score history. `JavaScript` Stars: 1
+- [GestureCam-Studio](https://github.com/Haroon-Xray/GestureCam-Studio) - GestureCam Studio is a Python-based hand gesture camera system using OpenCV and MediaPipe. It supports live hand tracking, gesture detection, skeleton landmarks, air writing, puzzle mode, FPS monitoring, and phone camera streaming through a web interface. `Python` Stars: 1
+- [Image-Analytics](https://github.com/Haroon-Xray/Image-Analytics) - XIS is a full-stack image analytics platform that analyzes uploads and shows insights in a real-time dashboard. `TypeScript`
 <!--END_SECTION:repos-->
 
 <div align="center">
@@ -144,14 +144,14 @@
 
 | 🔥 Project | 📝 Description | 🛠 Stack | 🔗 Link |
 |:---|:---|:---|:---:|
-| **Text-To-Image Generator** | AI app that converts text prompts into generated images using deep learning | Python, Deep Learning | [View](https://github.com/Zubair-hussain/Text-To-Image-) |
-| **IMDB Top 1000 Analysis** | Professional data preprocessing & visualization — AI Internship Task | Python, Pandas, Jupyter | [View](https://github.com/Zubair-hussain/imdb-top1000-analysis) |
-| **Salary Prediction ML** | End-to-end ML: linear regression with preprocessing, training & deployment | Python, Scikit-learn | [View](https://github.com/Zubair-hussain/Salary-Prediction-using-Traditional-ML-Techniques.) |
-| **Movie App** | Dynamic movie browsing app with real-time data | JavaScript | [View](https://github.com/Zubair-hussain/Movie-App) |
-| **MVC Task Manager** | Task management app using MVC architecture | JavaScript | [View](https://github.com/Zubair-hussain/MVC-Task-) |
-| **Promise Task** | Deep dive into async JS with Promises | JavaScript | [View](https://github.com/Zubair-hussain/Promise-Task) |
-| **React Dynamic Project** | Dynamic app built with React + Vite | React, Vite | [View](https://github.com/Zubair-hussain/React-dynamic-project) |
-| **Zikr Counter (Count)** | Minimalist digital counter for recitations | CSS | [View](https://github.com/Zubair-hussain/Count) |
+| **Text-To-Image Generator** | AI app that converts text prompts into generated images using deep learning | Python, Deep Learning | [View](https://github.com/Haroon-Xray/Text-To-Image-) |
+| **IMDB Top 1000 Analysis** | Professional data preprocessing & visualization — AI Internship Task | Python, Pandas, Jupyter | [View](https://github.com/Haroon-Xray/imdb-top1000-analysis) |
+| **Salary Prediction ML** | End-to-end ML: linear regression with preprocessing, training & deployment | Python, Scikit-learn | [View](https://github.com/Haroon-Xray/Salary-Prediction-using-Traditional-ML-Techniques.) |
+| **Movie App** | Dynamic movie browsing app with real-time data | JavaScript | [View](https://github.com/Haroon-Xray/Movie-App) |
+| **MVC Task Manager** | Task management app using MVC architecture | JavaScript | [View](https://github.com/Haroon-Xray/MVC-Task-) |
+| **Promise Task** | Deep dive into async JS with Promises | JavaScript | [View](https://github.com/Haroon-Xray/Promise-Task) |
+| **React Dynamic Project** | Dynamic app built with React + Vite | React, Vite | [View](https://github.com/Haroon-Xray/React-dynamic-project) |
+| **Zikr Counter (Count)** | Minimalist digital counter for recitations | CSS | [View](https://github.com/Haroon-Xray/Count) |
 
 </div>
 
@@ -160,13 +160,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zubair-hussain&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zubair-hussain&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haroon-Xray&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haroon-Xray&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-hussain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Zubair-hussain&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroon-Xray&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Haroon-Xray&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 </div>
 
 ---
@@ -195,8 +195,8 @@ delivering full stack web apps, AI integrations, and data solutions that meet re
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge)](https://tinyurl.com/3f7mef97)
-[![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thezubairh@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zubair-hussain)
+[![Email](https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hr070203@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haroon-Xray)
 [![Instagram](https://img.shields.io/badge/📷%20Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/detro_onshah)
 
 </div>

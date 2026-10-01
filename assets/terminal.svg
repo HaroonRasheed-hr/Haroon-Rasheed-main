@@ -4,9 +4,9 @@
 <circle cx="22" cy="18.0" r="6" fill="#ff5f56"/>
 <circle cx="42" cy="18.0" r="6" fill="#ffbd2e"/>
 <circle cx="62" cy="18.0" r="6" fill="#27c93f"/>
-<text x="320.0" y="22.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#9a9a9a">zubair_hussain — info — 80x24</text>
+<text x="320.0" y="22.0" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#9a9a9a">haroon_rasheed — info — 80x24</text>
 <clipPath id="cmdClip"><rect id="cmdClipRect" x="204.8" y="41" width="0" height="22"/></clipPath>
-<text x="20" y="55" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#5fd97a">zubair_hussain/info $ </tspan><tspan fill="#f2f2f2" clip-path="url(#cmdClip)">whoami</tspan></text>
+<text x="20" y="55" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#5fd97a">haroon_rasheed/info $ </tspan><tspan fill="#f2f2f2" clip-path="url(#cmdClip)">whoami</tspan></text>
 <rect id="typeCursor" x="204.8" y="41" width="7" height="18" fill="#f2f2f2"/>
 <g id="line0" opacity="0"><text x="20" y="85.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#c7c7c7"></tspan></text></g>
 <g id="line1" opacity="0"><text x="20" y="107.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">Now</tspan><tspan fill="#c7c7c7">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Full Stack Developer · AI Engineer</tspan></text></g>
@@ -26,7 +26,7 @@
 <g id="line15" opacity="0"><text x="20" y="415.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> Kaggle top 10% — multiple competitions</tspan></text></g>
 <g id="line16" opacity="0"><text x="20" y="437.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> Built full text-to-image AI pipeline</tspan></text></g>
 <g id="line17" opacity="0"><text x="20" y="459.8" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14"><tspan fill="#8a7dfb">•</tspan><tspan fill="#c7c7c7"> Shipped real client projects on Upwork &amp; Fiverr</tspan></text></g>
-<g id="finalPrompt" opacity="0"><text x="20" y="490.6" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#5fd97a">zubair_hussain/info $ </text><rect id="blinkCursor" x="204.8" y="476.6" width="7" height="18" fill="#f2f2f2"/></g>
+<g id="finalPrompt" opacity="0"><text x="20" y="490.6" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#5fd97a">haroon_rasheed/info $ </text><rect id="blinkCursor" x="204.8" y="476.6" width="7" height="18" fill="#f2f2f2"/></g>
 <animate xlink:href="#cmdClipRect" attributeName="width" values="0;0;50.4;50.4;0;0" keyTimes="0;0.0868;0.1346;0.8480;0.9132;1" dur="6.910s" repeatCount="indefinite"/>
 <animate xlink:href="#typeCursor" attributeName="x" values="204.8;204.8;255.20000000000002;255.20000000000002" keyTimes="0;0.0868;0.1346;1" dur="6.910s" repeatCount="indefinite"/>
 <animate xlink:href="#typeCursor" attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.0868;0.1346;0.1563;1" dur="6.910s" repeatCount="indefinite"/>

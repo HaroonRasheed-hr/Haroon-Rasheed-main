@@ -26,7 +26,7 @@
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/terminal.svg" width="100%" />
+<img src="./assets/terminal.svg?v=2" width="100%" />
 
 </td>
 </tr>

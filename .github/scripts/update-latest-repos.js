@@ -3,7 +3,7 @@
 
 const fs = require("fs");
 
-const USERNAME = process.env.GH_USERNAME || "Haroon-Xray";
+const USERNAME = process.env.GH_USERNAME || "HaroonRasheed-hr";
 const TOKEN = process.env.GH_TOKEN;
 const README_PATH = "README.md";
 const START_MARKER = "<!--START_SECTION:repos-->";
